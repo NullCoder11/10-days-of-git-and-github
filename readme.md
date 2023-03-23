@@ -1046,6 +1046,14 @@ Weather App - JS Project
 </details>
 
 ---
+<details>
+<summary>
+This is Sompadma
+</summary>
+<li>
+<a href="https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ">This is one of the best Java Tutorial Playlist</a>
+</li>
+</detils>
 
 # Day 7
 
